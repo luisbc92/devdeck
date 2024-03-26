@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/Users/luis/Code/personal/devdeck/monitor/build/CMakeFiles/PioasmBuild
+/Users/luis/Code/personal/devdeck/monitor/build/CMakeFiles/PioasmBuild.rule
+/Users/luis/Code/personal/devdeck/monitor/build/CMakeFiles/PioasmBuild-complete.rule
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule

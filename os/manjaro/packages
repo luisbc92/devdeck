@@ -1,0 +1,52 @@
+# base
+base-devel
+yay
+networkmanager
+zsh
+raspi-config
+
+# login
+greetd
+greetd-tuigreet
+wlogout
+
+# sway
+sway
+swaybg
+swayidle
+swaylock
+mako
+foot
+fuzzel
+waybar
+wl-clipboard
+xdg-user-dirs
+xorg-xwayland
+polkit-gnome
+grim
+grimshot
+slurp
+wdisplays
+wf-recorder
+
+# themes
+noto-fonts
+ttf-scientifica
+siji
+qt5ct
+qt5-wayland
+kvantum-qt5
+gtk3-nocsd
+nordic-theme
+kvantum-theme-nordic-git
+xcursor-breeze
+papirus-maia-icon-theme
+
+# cool stuff
+bat
+cbonsai
+curl
+
+# devel
+npm
+vi-vim-symlink

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/CMakeFiles/PioasmBuild.rule"
+		},
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/CMakeFiles/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule"
+		},
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "/Users/luis/Code/personal/devdeck/monitor/build/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}

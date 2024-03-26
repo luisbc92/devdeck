@@ -1,0 +1,26 @@
+{
+  "cmake.configureOnOpen": false,
+  "cmake.statusbar.advanced": {
+    "debug" : {
+      "visibility": "hidden"
+              },    "launch" : {
+      "visibility": "hidden"
+               },
+    "build" : {
+      "visibility": "hidden"
+               },
+    "buildTarget" : {
+      "visibility": "hidden"
+               },
+    },
+    "python.languageServer": "Pylance",
+    "python.linting.pylintEnabled": false,
+    "python.analysis.diagnosticSeverityOverrides": {
+      "reportMissingModuleSource": "none"
+    },
+    "python.analysis.extraPaths": [
+      null,
+      "/Users/luis/.vscode-insiders/extensions/joedevivo.vscode-circuitpython-0.1.11/stubs",
+      "/Users/luis/Library/Application Support/Code - Insiders/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20210416/adafruit-circuitpython-bundle-py-20210416/lib"
+    ],
+}

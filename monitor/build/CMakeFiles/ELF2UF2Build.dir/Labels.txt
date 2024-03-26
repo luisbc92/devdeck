@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/luis/Code/personal/devdeck/monitor/build/CMakeFiles/ELF2UF2Build
+/Users/luis/Code/personal/devdeck/monitor/build/CMakeFiles/ELF2UF2Build.rule
+/Users/luis/Code/personal/devdeck/monitor/build/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/luis/Code/personal/devdeck/monitor/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/luis/Code/personal/devdeck/monitor/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/luis/Code/personal/devdeck/monitor/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/luis/Code/personal/devdeck/monitor/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/luis/Code/personal/devdeck/monitor/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/luis/Code/personal/devdeck/monitor/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/luis/Code/personal/devdeck/monitor/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule

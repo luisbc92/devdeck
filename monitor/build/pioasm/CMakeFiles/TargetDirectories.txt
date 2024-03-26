@@ -1,0 +1,3 @@
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/CMakeFiles/rebuild_cache.dir
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/luis/Code/personal/devdeck/monitor/build/pioasm/CMakeFiles/pioasm.dir

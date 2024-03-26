@@ -1,0 +1,1 @@
+cmd='/opt/homebrew/Cellar/cmake/3.20.1/bin/cmake;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
